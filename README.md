@@ -7,3 +7,5 @@
 21-3 Explore string nature and reverse a string
 
 21-4 Handle unexpected function input parameter error
+
+21-5 Use add and multiplication to calculate wood requirements
