@@ -5,3 +5,5 @@
 21-2 Remove duplicate items from an array
 
 21-3 Explore string nature and reverse a string
+
+21-4 Handle unexpected function input parameter error
