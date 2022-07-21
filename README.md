@@ -17,3 +17,5 @@
 21-8 Calculate the total cost of the products in a shopping cart
 
 21-9 (advanced) Travelling in a Jungle and counting wild animals
+
+21-10 Module Summary and important of problem solving
