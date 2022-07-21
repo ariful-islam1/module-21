@@ -4,3 +4,4 @@
 
 21-2 Remove duplicate items from an array
 
+21-3 Explore string nature and reverse a string
