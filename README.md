@@ -15,3 +15,5 @@
 21-7 Find the cheapest phone from an array of phone objects
 
 21-8 Calculate the total cost of the products in a shopping cart
+
+21-9 (advanced) Travelling in a Jungle and counting wild animals
