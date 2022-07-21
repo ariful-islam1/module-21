@@ -13,3 +13,5 @@
 21-6 (optional)Write foo, bar, foobar if divisible by 3 or 5 or both
 
 21-7 Find the cheapest phone from an array of phone objects
+
+21-8 Calculate the total cost of the products in a shopping cart
